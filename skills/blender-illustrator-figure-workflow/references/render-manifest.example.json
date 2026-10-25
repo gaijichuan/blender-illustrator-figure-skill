@@ -1,0 +1,16 @@
+{
+  "jobs": [
+    {
+      "source": "scenes/membrane-approved.blend",
+      "output": "renders/membrane-hd.png",
+      "resolution": [2400, 1600],
+      "samples": 64
+    },
+    {
+      "source": "scenes/inset-approved.blend",
+      "output": "renders/inset-hd.png",
+      "resolution": [2000, 1500],
+      "samples": 64
+    }
+  ]
+}
