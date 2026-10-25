@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+_validation/
+*.ai
+*.blend
+*.blend1
+*.png
+*.jpg
+*.psd
+*.zip
+local-config.json

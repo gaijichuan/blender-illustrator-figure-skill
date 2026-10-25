@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blender + Illustrator 科研图工作流"
+  short_description: "可编辑科研图的三维建模、高清渲染、原位替换、版式调整与裁切验收"
+  default_prompt: "使用 $blender-illustrator-figure-workflow 修改当前科研图，保留已批准的三维灯光和现有可编辑布局，并在软件中展示结果。"
